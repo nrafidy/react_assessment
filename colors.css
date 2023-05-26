@@ -1,0 +1,14 @@
+:root{
+    --drawer: #1f2933;
+    --drawer-icon: #5e7cc2;
+    --commit-button: #517cda;
+    --appbar: #24303c;
+    --config-btn: #4c8e9a;
+    --config-bg: #3d4b56;
+    --sql-btn: #2d3947;
+    --sql-dark: #2d3947;
+    --js-btn: #fcd877;
+    --ops-btn: #355260;
+    --assert-btn: #b28a82;
+    --purple: #636281;
+}
